@@ -1,0 +1,8 @@
+streamlit==1.29.0
+pandas>=1.3.0
+scikit-learn
+tensorflow
+newspaper3k
+transformers
+lxml_html_clean
+torch
