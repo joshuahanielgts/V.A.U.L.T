@@ -2,22 +2,15 @@ This is the frontend module of the Vault project, designed to provide a seamless
 
 **📌 Features**
 
-Cross-Platform Development: Utilizes both Vite and React Native to cater to web and mobile users.​
-
-TypeScript Integration: Ensures type safety and better developer tooling.​
-
-Tailwind CSS: Facilitates rapid UI development with utility-first CSS.​
-
-Bun Package Manager: Employs Bun for faster package management and scripting.​
+  1. Cross-Platform Development: Utilizes both Vite and React Native to cater to web and mobile users.​
+  2. TypeScript Integration: Ensures type safety and better developer tooling.​
+  3. Tailwind CSS: Facilitates rapid UI development with utility-first CSS.​
+  4. Bun Package Manager: Employs Bun for faster package management and scripting.​
 
 **🛠️ Technologies Used**
 
-Vite – Fast frontend build tool.​
-
-React Native – Framework for building native apps using React.​
-
-TypeScript – Typed superset of JavaScript.​
-
-Tailwind CSS – Utility-first CSS framework.​
-
-Bun – Modern JavaScript runtime like Node or Deno
+  1. Vite – Fast frontend build tool.​
+  2. React Native – Framework for building native apps using React.​
+  3. TypeScript – Typed superset of JavaScript.​
+  4. Tailwind CSS – Utility-first CSS framework.​
+  5. Bun – Modern JavaScript runtime like Node or Deno
