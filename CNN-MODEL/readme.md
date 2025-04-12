@@ -5,24 +5,54 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Built with ❤️](https://img.shields.io/badge/Built%20with-%E2%9D%A4-red)](#)
 
-> 🎯 Personalized investment recommendations using real-life-inspired data and machine learning (XGBoost).
+> 🚀 An intelligent AI-based recommendation system that suggests **the right investment strategy** — Stocks, Crypto, Property, etc. — based on real-life user scenarios.
+
+<p align="center">
+  <img src="https://lottie.host/32ed47c6-d3bb-40f0-9278-0a15e2b79cd0/gDpJESo6Kj.json" alt="Finance Animation" width="450">
+</p>
 
 ---
 
-## 🚀 Overview
+## 🔍 What It Does
 
-In a world overflowing with investment options, finding what’s right for **you** can be challenging. This AI-powered project simplifies financial planning by recommending the **most suitable investment strategy** (Stocks, Crypto, Property, etc.) based on personal profile data such as age, income, education, risk appetite, and more.
+This system understands users just like a smart financial advisor would:
+- 📈 Assesses financial traits like income, debt, goals, and risk appetite
+- 🧠 Learns from diverse real-life-inspired profiles
+- 🎯 Recommends personalized investment strategies that make sense
 
 ---
 
-## 🧠 Features
+## 🧠 Key Features
 
-- ✅ Real-world inspired synthetic dataset
-- 📊 Personalized investment strategy predictions
-- ⚙️ Trained using **XGBoost Classifier**
-- 🧼 Clean preprocessing and label encoding
-- 💾 Easily deployable with saved models and encoders
-- 🔍 SHAP explainability integration-ready
+✨ **Realistic & Diverse Dataset**  
+🧹 Clean Data Preprocessing  
+🌳 XGBoost Classifier for High Accuracy  
+💾 Model & Encoder Saved for Easy Deployment  
+🧮 SHAP Ready for Explainability  
+📊 Designed with Practical Use Cases in Mind  
+
+---
+
+## ⚙️ Behind the Scenes
+
+<p align="center">
+  <img src="https://lottie.host/cc2d8757-69a9-465e-855b-60d6a786ba0d/Vc6rq0fVGx.json" alt="Machine Learning Animation" width="400">
+</p>
+
+### 🧬 Input Parameters
+- Age, Income, Education Level  
+- Risk Appetite, Financial Goal, Job Type  
+- Investment Knowledge, Existing Investments  
+- Monthly Debt, Dependents, Urban/Rural location
+
+### 🎓 Output
+- One of the recommended strategies:  
+  **Crypto | Property | Stocks | Diversified | Fixed Income**
+
+---
+
+## 🏗️ Project Architecture
+
 
 ---
 
