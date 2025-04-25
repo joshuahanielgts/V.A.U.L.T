@@ -4,7 +4,6 @@
 
 Vault is a collaborative project that integrates multiple components to create a comprehensive fintech solution. The project includes:
 
-- **Blockchain Chat Application**: A decentralized messaging platform leveraging blockchain technology.
 - **CNN Model**: A convolutional neural network model for processing and analyzing data.
 - **Data API**: An API providing access to financial data.
 - **Frontend Interface**: A user-friendly interface for interacting with the system.
